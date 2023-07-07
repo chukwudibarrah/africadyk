@@ -1,0 +1,82 @@
+[
+    {
+      "question": "The Nile has two sources: the Blue Nile and...",
+      "options": ["The White Nile coming from Lake Victoria in Tanzania", "The Atbarah River from Sudan", "The Didessa River from Ethiopia", "The White Nile from Sudan, South Sudan"],
+      "answer": "The White Nile coming from Lake Victoria in Tanzania"
+    },
+    {
+      "question": "What is the largest city in Africa?",
+      "options": ["Nairobi", "Addis Ababa", "Lagos", "Cairo", "Dar es Salaam"],
+      "answer": "Lagos"
+    },
+    {
+      "question": "Which African country was the first to gain independence from colonialism?",
+      "options": ["Tunisia", "Libya", "Rwanda", "Ghana", "Zimbabwe"],
+      "answer": "Libya"
+    },
+    {
+      "question": "Which is the longest river in Africa?",
+      "options": ["Shangani River", "Nile", "Rurubu River", "Niger", "Volta"],
+      "answer": "Nile"
+    },
+    {
+      "question": "What is the capital of Botswana?",
+      "options": ["Porto-Novo", "Gaborone", "Praia", "Accra", "Niamey"],
+      "answer": "Gaborone"
+    },
+    {
+      "question": "What does ANC stand for?",
+      "options": ["African National Committee", "Algerian National Circuit", "All National Caucus", "Algiers Nationale Congress", "African National Congress"],
+      "answer": "African National Congress"
+    },
+    {
+      "question": "Which country is the island Zanzibar a part of?",
+      "options": ["Tanzania", "Mali", "Senegal", "Seychelles", "Madagascar"],
+      "answer": "Tanzania"
+    },
+    {
+      "question": "Which African actress is quoted as saying, 'Your dreams are valid'?",
+      "options": ["Wunmi Mosaku", "Yvonne Orji", "Danai Gurira", "Lupita Nyong’o", "Uzo Aduba"],
+      "answer": "Lupita Nyong’o"
+    },
+    {
+      "question": "Who was Zambia's first president??",
+      "options": ["Goodluck Jonathan", "Kenneth Kaunda", "Manuel Pinto da Costa", "Nana Akufo-Addo", "Yoweri Museveni"],
+      "answer": "Kenneth Kaunda"
+    },
+    {
+      "question": "Who is Africa's longest-serving leader?",
+      "options": ["Fulbert Youlou", "Ahmadu Bello", "David Dacko", "Ahmadou Ahidjo", "Obiang Nguema"],
+      "answer": "Tanzania"
+    },
+    {
+      "question": "In what country is the Aswan Dam located?",
+      "options": ["Comoros", "Ethiopia", "Egypt", "Cameroon", "Namibia"],
+      "answer": "Egypt"
+    },
+    {
+      "question": "Which is the second-longest river in Africa?",
+      "options": ["Great Fish River", "Groot River", "Xufexufe River", "Congo River", "Nile"],
+      "answer": "Congo River"
+    },
+    {
+      "question": "In what year did Ghana gain its independence?",
+      "options": ["1957", "1960", "1983", "1991", "1956"],
+      "answer": "1957"
+    },
+    {
+      "question": "What country is sandwiched between Ghana and Benin?",
+      "options": ["Togo", "Nigeria", "Cameroon", "Mali", "Niger"],
+      "answer": "Togo"
+    },
+    {
+      "question": "Which African country did Idi Amin rule between 1971 and 1979?",
+      "options": ["Rwanda", "Zimbabwe", "South Africa", "Uganda", "Kenya"],
+      "answer": "Uganda"
+    },
+    {
+      "question": "In what country are Nollywood films made?",
+      "options": ["Ghana", "India", "Senegal", "Liberia", "Nigeria"],
+      "answer": "Nigeria"
+    }
+  ]
