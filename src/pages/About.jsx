@@ -12,7 +12,7 @@ export default function About() {
       </p>
       <p className="mb-16 mt-4">You have only 60 seconds. Good luck!</p>
       <div className="group text-gold transition-all duration-300 ease-in-out">
-      <Link to="/quiz"><button className="uppercase bg-left-bottom bg-gradient-to-r from-gold to-gold bg-[length:100%_6px] bg-no-repeat group-hover:bg-[length:0%_6px] transition-all duration-700 ease-out font-bold">
+      <Link to="/africadyk/quiz"><button className="uppercase bg-left-bottom bg-gradient-to-r from-gold to-gold bg-[length:100%_6px] bg-no-repeat group-hover:bg-[length:0%_6px] transition-all duration-700 ease-out font-bold">
           Start Quiz
         </button></Link>
       </div>

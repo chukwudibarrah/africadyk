@@ -117,7 +117,7 @@ export default function Quiz() {
       )}
       <div className="flex">
         <div className="group text-gold transition-all duration-300 ease-in-out">
-          <Link to="/">
+          <Link to="/africadyk/">
             <button className="uppercase bg-left-bottom bg-gradient-to-r from-gold to-gold bg-[length:100%_5px] bg-no-repeat group-hover:bg-[length:0%_5px] transition-all duration-700 ease-out font-bold tracking-wider">
               Back to home
             </button>

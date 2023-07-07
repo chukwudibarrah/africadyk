@@ -13,7 +13,7 @@ export default function Home() {
         <p>Take the quiz and find out!</p>
       </div>
       <div className="group text-gold transition-all duration-300 ease-in-out">
-      <Link to="/about"><button className="uppercase bg-left-bottom bg-gradient-to-r from-gold to-gold bg-[length:100%_5px] bg-no-repeat group-hover:bg-[length:0%_5px] transition-all duration-700 ease-out font-bold">
+      <Link to="/africadyk/about"><button className="uppercase bg-left-bottom bg-gradient-to-r from-gold to-gold bg-[length:100%_5px] bg-no-repeat group-hover:bg-[length:0%_5px] transition-all duration-700 ease-out font-bold">
           Take Quiz
         </button>
         </Link>
